@@ -1,0 +1,12 @@
+{
+	"geode": "2.0.0-beta.16",
+	"gd": {
+		"win": "2.204",
+		"mac": "2.200"
+	},
+	"version": "v1.0.0",
+	"id": "ninxout.show_platformer_buttons",
+	"name": "Show Platformer Buttons",
+	"developer": "ninXout",
+	"description": ""
+}
